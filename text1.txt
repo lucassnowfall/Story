@@ -6,4 +6,11 @@ You are always welcome here in Kansas
 =======
 
 ALIENS ALIENS ALIENS!!!! PLEASE!
+<<<<<<< HEAD
+>>>>>>> alien-plot
+=======
+
+Now im gonna merge two branches!
+
+CIA is always watching everbody!
 >>>>>>> alien-plot
